@@ -12,7 +12,7 @@ Get traffic data via Glasgow City Council Open Data API
 All these require an API key from the Glasgow City Council.
 (data@glasgow.gov.uk)
 
-To be done:
+To do:
 
 fix data error of (4).
 
